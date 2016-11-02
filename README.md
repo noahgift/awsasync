@@ -3,6 +3,7 @@ Some Useful AWS Async Code
 
 
 Example Usage In Getting EC2 Instance MetaData:
+
     In [55]: from awsasync import all_metadata_async()
 
     In [56]: res = all_metadata_async()
